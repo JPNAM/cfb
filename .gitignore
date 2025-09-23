@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+.envrc
+
+# Node
+node_modules/
+.next/
+dist/
+.out/
+yarn-error.log
+pnpm-lock.yaml
+
+# Docker
+*.log
+
+# Misc
+.DS_Store
+.idea/
+.vscode/
+
+# Test artifacts
+pytest_cache/
+playwright-report/
+
+
+# Local sqlite
+*.db
