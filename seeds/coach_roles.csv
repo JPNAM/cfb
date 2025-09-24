@@ -1,0 +1,7 @@
+coach_id,coach_name,team,role,start_date,end_date,start_game_id,end_game_id
+rogers-oc-2024,Jane Rogers,KC,OC,2024-03-01,,, 
+reid-pc-2024,Andy Reid,KC,OffPlayCaller,2024-09-01,,,
+spagnuolo-dc-2024,Steve Spagnuolo,KC,DC,2024-03-01,,,
+johnson-oc-2024,Ben Johnson,DET,OC,2024-03-01,,,
+lynn-pc-2024,Anthony Lynn,DET,OffPlayCaller,2024-09-01,,,
+sheppard-dc-2024,Aaron Glenn,DET,DC,2024-03-01,,,
